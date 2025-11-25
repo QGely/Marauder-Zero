@@ -13,4 +13,4 @@ Marauder-Zero regroupe le développement et la documentation pour porter/adapter
           \`. `.__,' /   /  \   \ `.__,' ,'/
            \o\     ,'  ,'    `.  `.     /o/
             \o`---'  ,'        `.  `---'o/
-             `.____,'  -shimrod  `.____,'
+             `.____,'            `.____,'
